@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/IkechukwuChiemelieCharles/Contact-Page.git]
+- Solution URL: [https://github.com/IkechukwuChiemelieCharles/adviser-generator.git]
 - Live Site URL: [https://advice-generator.vercel.app/](https://your-live-site-url.com)
 
 ## My process
