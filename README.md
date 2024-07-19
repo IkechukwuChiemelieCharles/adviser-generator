@@ -43,4 +43,4 @@ Users should be able to:
 - Website - [Ikechukwu Chiemelie Charles](https://www.your-site.com)
 - Frontend Mentor - [@IkechukwuChiemelieCharles
 
-](https://www.frontendmentor.io/profile/yourusername)
+](https://www.frontendmentor.io/profile/IkechukwuChiemelieCharles)
