@@ -1,6 +1,7 @@
 import "./App.css";
 import React, { useState, useEffect } from "react";
 import { fetchAdvice } from "./Api";
+import "./App.css";
 
 function Advice() {
   const [advice, setAdvice] = useState("");
@@ -25,7 +26,7 @@ function Advice() {
     getAdvice();
   }, []);
   return (
-    <div className="bg-DarkGrayishBlue w-96 md:w-128 flex flex-col justify-center items-center gap-5 p-10 rounded-xl relative drop-shadow-2xl">
+    <div className="bg-DarkGrayishBlue w-72 md:w-128 flex flex-col justify-center items-center gap-5 p-10 rounded-xl relative drop-shadow-2xl">
       <p className="text-center text-NeonGreen font-bold text-xl">
         Advice #{count}
       </p>
@@ -39,7 +40,7 @@ function Advice() {
         alt="img"
       />
       <div
-        className="p-5 w-20 h-16 rounded-full bg-NeonGreen flex justify-center absolute -bottom-10"
+        className=" dice p-5 w-16 h-16 rounded-full bg-NeonGreen flex justify-center absolute -bottom-10 cursor-pointer hover:drop-shadow-lg"
         onClick={getAdvice}
       >
         <img className="" src="icon-dice.svg" alt="img" />

@@ -9,6 +9,7 @@ module.exports = {
         GrayishBlue: "hsl(217, 19%, 38%)",
         DarkGrayishBlue: "hsl(217, 19%, 24%)",
         DarkBlue: "hsl(218, 23%, 16%)",
+        Linkcolor: "hsl(228, 45%, 44%)",
       },
       spacing: {
         128: "32rem",

@@ -6,6 +6,9 @@
   height: 40vmin;
   pointer-events: none;
 }
+.dice:hover {
+  box-shadow: 2px 2px 20px hsl(150, 100%, 66%);
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
